@@ -4,7 +4,7 @@ const app = express();
 
 app.get('/', function (req, res) {
 
-    res.send('hello world updated');
+    res.send('hello world');
 
 });
 
