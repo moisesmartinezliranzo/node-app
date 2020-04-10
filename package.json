@@ -1,0 +1,26 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Hello jeskins test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisesmartinezliranzo/node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisesmartinezliranzo/node-app/issues"
+  },
+  "homepage": "https://github.com/moisesmartinezliranzo/node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1",
+    "supertest": "^4.0.2"
+  }
+}
