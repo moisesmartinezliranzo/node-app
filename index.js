@@ -4,7 +4,7 @@ const app = express();
 
 app.get('/', function (req, res) {
 
-    res.send('hello world nodejs 2');
+    res.send('Tamo adriba Juako...');
 
 });
 
