@@ -1,3 +1,5 @@
 #!/bin/sh
 
 ./node_modules/mocha/bin/mocha --exit ./test/test.js
+
+echo 'unit test ended...'
